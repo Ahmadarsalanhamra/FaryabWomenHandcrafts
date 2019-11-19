@@ -1,5 +1,4 @@
-### this is my title
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>{{ page.title }}</title>
