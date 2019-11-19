@@ -1,4 +1,3 @@
-#Faryab Women Handcrafts
 <!DOCTYPE html>
 <html>
   <head>
@@ -75,14 +74,28 @@
 </nav>
 </div>
 
-<div class="container">
+<div class="container" >
 
-              <div style  = "margin:50px;">
-              <h4>New handcrafts in 2019</h4>
+              <div style = "margin-top:50px;">
+<!------- news ------->
+
+</div> <!--- end of the col-sm-8 --->
+
+
+
+              <h4 style  = "margin:20px">New handcrafts in 2019</h4>
                 <span>
-              <img src="new.jpg"/>
+              
+<!------- news ------->
+
+
+<div class="col-md-4">
+<br />
+      <img src="new.jpg" class="img-thumbnail" alt="Firoz Uzbek Karimi" />
+<br /><br />
+<!-- <div class="col-sm-3"> -->
                
-               <p>sfjosgonedrognoeri</p>
+               <p></p>
                </span> 
               </div>
 
