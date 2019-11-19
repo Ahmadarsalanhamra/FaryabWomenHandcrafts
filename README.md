@@ -8,7 +8,7 @@
   <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <a class="navbar-brand" href="{{site.baseurl}}/">Firoz Uzbek Karimi</a>
+  <a class="navbar-brand" href="{{site.baseurl}}/">Faryab Women Handcrafts</a>
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
 <!--       <li class="nav-item active">
@@ -18,13 +18,13 @@
         <a class="nav-link" href="{{site.baseurl}}/publications/">Publications</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="{{site.baseurl}}/teaching/">Teaching</a>
+        <a class="nav-link" href="{{site.baseurl}}/news/">Teaching</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="{{site.baseurl}}/service/">Service</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="{{site.baseurl}}/jobs/">Jobs</a>
+        <a class="nav-link" href="{{site.baseurl}}/Products/">Jobs</a>
       </li>
     </ul>
   </div>
