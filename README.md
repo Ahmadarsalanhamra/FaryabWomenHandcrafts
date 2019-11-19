@@ -27,6 +27,7 @@
         <a class="nav-link" href="{{site.baseurl}}/Products/">Jobs</a>
       </li>
     </ul>
+    
   </div>
 </nav>
 </div>
