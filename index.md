@@ -86,6 +86,12 @@
 
 
 
+              <div style = "float:right;margin-top:50px;">
+<!------- news ------->
+
+</div> <!--- end of the col-sm-8 --->
+
+
 
 
               <h4 style  = "text-align:center;margin:20px">New handcrafts in 2019</h4>
@@ -117,6 +123,14 @@
 </div>
 
 <div class="container" >
+
+
+
+              <div style = "float:right;margin-top:50px;">
+<!------- news ------->
+
+</div> <!--- end of the col-sm-8 --->
+
 
 
               <h4 style  = "text-align:center;margin:20px">New handcrafts in 2019</h4>
