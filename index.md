@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 
 <html>
   <head>
@@ -44,10 +45,10 @@
 
 </head>
 
-<body style="padding-top: 30px;">
+<body dir = "text-align:right;" style="padding-top: 30px;">
 
-<div class="container">
-<nav class="navbar navbar-toggleable-md navbar-expand-lg navbar-light bg-light">
+<div style  = ""class="container">
+<nav style  = ""class="navbar navbar-toggleable-md navbar-expand-lg navbar-light bg-l``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````ight">
   <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -74,20 +75,147 @@
 </nav>
 </div>
 
-<div class="container">
+<div class="container" >
 
-              <div style  = "margin:50px;">
-              <h4>New handcrafts in 2019</h4>
+
+
+
+
+
+
+
+
+
+
+
+              <div style = "float:right;margin-top:50px;">
+<!------- news ------->
+
+</div> <!--- end of the col-sm-8 --->
+
+
+
+              <h4 style  = "text-align:center;margin:20px">New handcrafts in 2019</h4>
                 <span>
-              <img src="new.jpg"/>
+              
+<!------- news ------->
+
                
-               <p>sfjosgonedrognoeri</p>
+
+
+
+
+
+                      <div id="top" class="row">
+
+
+      <img src="new.jpg" class="img-thumbnail" alt="Firoz Uzbek Karimi" />
+
+
+<div class="col-sm-8">
+
+<p style="text-align: justify;">
+    Before the chancellor, I have worked as vice-chancellor of student affairs in <a href="faryab.edu.af">Faryab University</a>, behind, I have spent several months as a headman of the university.  Prior to that, I have worked as head of English department of the literature faculty in the university. I am a lecturer in literature faculty since I have graduated in 2004. I have enrolled to the "Teaching English to Speakers of Other Languages (TESOL)" program and achieved my master’s degree in English from the <a href="https://sreu.edu.af/">Kabul Education University</a>, 2013. I have graduated from literature faculty of the Faryab university in 2004. 
+</p>
+
+</div>
+
+</div>
+
+
+
+
+              <div style = "float:right;margin-top:50px;">
+<!------- news ------->
+
+</div> <!--- end of the col-sm-8 --->
+
+
+
+              <h4 style  = "text-align:center;margin:20px">New handcrafts in 2019</h4>
+                <span>
+              
+<!------- news ------->
+
+               
+
+
+
+
+
+                      <div id="top" class="row">
+
+
+      <img src="new.jpg" class="img-thumbnail" alt="Firoz Uzbek Karimi" />
+
+
+<div class="col-sm-8">
+
+<p style="text-align: justify;">
+    Before the chancellor, I have worked as vice-chancellor of student affairs in <a href="faryab.edu.af">Faryab University</a>, behind, I have spent several months as a headman of the university.  Prior to that, I have worked as head of English department of the literature faculty in the university. I am a lecturer in literature faculty since I have graduated in 2004. I have enrolled to the "Teaching English to Speakers of Other Languages (TESOL)" program and achieved my master’s degree in English from the <a href="https://sreu.edu.af/">Kabul Education University</a>, 2013. I have graduated from literature faculty of the Faryab university in 2004. 
+</p>
+
+</div>
+
+</div>
+
+
+<div style  = "float:left" class="col-md-4">
+      
+<br />
+
+
+<br /><br />
+
+
+<div style  = "float:left" class="col-md-4">
+      
+<br />
+
+
+<br /><br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <div class="col-sm-3"> -->
+
+
                </span> 
+
               </div>
+
+
+
+
+
+
+
+
+
+
+
 
 </div>
     
-<p class="text-center text-muted" style=""><small>&copy; Faryab Women Handcrafts &nbsp; | &nbsp; Last Update: {{ site.time | date_to_string }} &nbsp; | &nbsp; Web site code on <a href="https://github.com/karimi">Github</a> </small></p>
+
+
+
+<p class="text-center text-muted" style="clear:both;"><small>&copy; Faryab Women Handcrafts &nbsp; | &nbsp; Last Update: {{ site.time | date_to_string }} &nbsp; | &nbsp; Web site code on <a href="https://github.com/karimi">Github</a> </small></p>
 
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
