@@ -75,6 +75,14 @@
 </nav>
 </div>
 
+
+
+
+
+
+
+
+
 <div class="container" >
 
 
@@ -96,7 +104,7 @@
 
 
               <h4 style  = "text-align:center;margin:20px">New handcrafts in 2019</h4>
-                <span>
+    
               
 <!------- news ------->
 
@@ -111,7 +119,7 @@
 
       <img src="new.jpg" class="img-thumbnail" alt="Firoz Uzbek Karimi" />
 
-
+</div>
 <div class="col-sm-8">
 
 <p style="text-align: justify;">
@@ -133,8 +141,7 @@
 
 
               <h4 style  = "text-align:center;margin:20px">New handcrafts in 2019</h4>
-                <span>
-              
+             
 <!------- news ------->
 
                
@@ -149,6 +156,7 @@
       <img src="new.jpg" class="img-thumbnail" alt="Firoz Uzbek Karimi" />
 
 
+</div>
 <div class="col-sm-8">
 
 <p style="text-align: justify;">
