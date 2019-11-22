@@ -80,54 +80,34 @@
 
 
 <div class="container" >
-
  <div style = "float:right;margin-top:50px;">
-
-
-</div> 
-            <h4 style  = "text-align:center;margin:20px">New handcrafts in 2019</h4>
-            <span>
-
+  </div> 
+    <h4 style  = "text-align:center;margin:20px">New handcrafts in 2019</h4>
+    <span>
  <div id="top" class="row">
-
-
   <img src="new.jpg" class="img-thumbnail" alt="Photo" />
-
 </div>
-
-
 <div class="col-sm-8">
-
-<p style="text-align: justify;">
-    Before the chancellor, I have worked as vice-chancellor of student affairs in <a href="faryab.edu.af">Faryab University</a>, behind, I have spent several months as a headman of the university.  Prior to that, I have worked as head of English department of the literature faculty in the university. I am a lecturer in literature faculty since I have graduated in 2004. I have enrolled to the "Teaching English to Speakers of Other Languages (TESOL)" program and achieved my master’s degree in English from the <a href="https://sreu.edu.af/">Kabul Education University</a>, 2013. I have graduated from literature faculty of the Faryab university in 2004. 
-</p>
-
+  
+  <p style="text-align: justify;">
+      Before the chancellor, I have worked as vice-chancellor of student affairs in <a href="faryab.edu.af">Faryab University</a>, behind, I have spent several months as a headman of the university.  Prior to that, I have worked as head of English department of the literature faculty in the university. I am a lecturer in literature faculty since I have graduated in 2004. I have enrolled to the "Teaching English to Speakers of Other Languages (TESOL)" program and achieved my master’s degree in English from the <a href="https://sreu.edu.af/">Kabul Education University</a>, 2013. I have graduated from literature faculty of the Faryab university in 2004. 
+  </p>
 </div>
 </div>
 
+<div style  = "float:left" class="col-md-4">      
 
-
-
-<div style  = "float:left" class="col-md-4">
-      
 <br />
-
-
 <br /><br />
 
-
 <div style  = "float:left" class="col-md-4">
-      
+</div>
 <br />
-
-
 <br /><br />
-
-
+ 
  <div class="col-sm-3">
-
-   </span> 
-
+    </span>
+    
   </div>
 </div>
 
