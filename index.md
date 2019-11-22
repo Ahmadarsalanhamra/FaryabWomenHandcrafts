@@ -5,16 +5,17 @@
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
-    <meta charset="UTF-8">
+    
+  <meta charset="UTF-8">
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
 
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="/css/theme.css" rel="stylesheet">
     <link href="/css/syntax.css" rel="stylesheet">
 
-    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+   <!-- Global Site Tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-1283264-10"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -25,12 +26,13 @@
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
 
-    <style>
+      <!--[if lt IE 9]>
+   <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+   <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+      
+   <![endif]-->
+ <style>
       body {
         padding-top: 20px;
       }
@@ -39,9 +41,9 @@
           padding-top: 56px;
         }
       }
-    </style>
+</style>
 
-    <meta name="keywords" content="about,Firoz,Uzbek,Karimi,Faryab,university,Maimana,Faryab University, professor"/>
+ <meta name="keywords" content="about,Firoz,Uzbek,Karimi,Faryab,university,Maimana,Faryab University, professor"/>
 
 </head>
 
@@ -55,9 +57,9 @@
   <a class="navbar-brand" href="/">Faryab Women Handcrafts</a>
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
-<!--       <li class="nav-item active">
+   <li class="nav-item active">
         <a class="nav-link" href="/">Home</a>
-      </li> -->
+      </li> 
       <li class="nav-item">
         <a class="nav-link" href="/publications/">Publications</a>
       </li>
@@ -77,38 +79,19 @@
 
 
 
-
-
-
-
-
 <div class="container" >
 
+ <div style = "float:right;margin-top:50px;">
 
 
-              <div style = "float:right;margin-top:50px;">
-<!------- news ------->
+</div> 
+            <h4 style  = "text-align:center;margin:20px">New handcrafts in 2019</h4>
+  
 
-</div> <!--- end of the col-sm-8 --->
-
-
-
-
-              <h4 style  = "text-align:center;margin:20px">New handcrafts in 2019</h4>
-    
-              
-<!------- news ------->
-
-               
+ <div id="top" class="row">
 
 
-
-
-
-                      <div id="top" class="row">
-
-
-      <img src="new.jpg" class="img-thumbnail" alt="Photo" />
+  <img src="new.jpg" class="img-thumbnail" alt="Photo" />
 
 </div>
 
@@ -121,45 +104,6 @@
 
 </div>
 </div>
-
-<div class="container" >
-
-
-
-              <div style = "float:right;margin-top:50px;">
-<!------- news ------->
-
-</div> <!--- end of the col-sm-8 --->
-
-
-
-              <h4 style  = "text-align:center;margin:20px">New handcrafts in 2019</h4>
-             
-<!------- news ------->
-
-               
-
-
-
-
-
-                      <div id="top" class="row">
-
-
-      <img src="new.jpg" class="img-thumbnail" alt="Firoz Uzbek Karimi" />
-
-
-</div>
-
-<div class="col-sm-8">
-
-<p style="text-align: justify;">
-    Before the chancellor, I have worked as vice-chancellor of student affairs in <a href="faryab.edu.af">Faryab University</a>, behind, I have spent several months as a headman of the university.  Prior to that, I have worked as head of English department of the literature faculty in the university. I am a lecturer in literature faculty since I have graduated in 2004. I have enrolled to the "Teaching English to Speakers of Other Languages (TESOL)" program and achieved my master’s degree in English from the <a href="https://sreu.edu.af/">Kabul Education University</a>, 2013. I have graduated from literature faculty of the Faryab university in 2004. 
-</p>
-
-</div>
-</div>
-
 
 
 
