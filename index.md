@@ -15,7 +15,7 @@
     <link href="/css/theme.css" rel="stylesheet">
     <link href="/css/syntax.css" rel="stylesheet">
 
-   <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-1283264-10"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -27,7 +27,7 @@
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 
-      <!--[if lt IE 9]>
+  <!--[if lt IE 9]>
    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
       
@@ -57,7 +57,7 @@
   <a class="navbar-brand" href="/">Faryab Women Handcrafts</a>
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
-   <li class="nav-item active">
+      <li class="nav-item active">
         <a class="nav-link" href="/">Home</a>
       </li> 
       <li class="nav-item">
