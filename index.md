@@ -81,8 +81,10 @@
  
  <h4 style  = "text-align:center;margin:20px">New handcrafts in 2019</h4>
 
-   
+   <div style = "float:left;">   
    <img style  =  "" src="new.jpg" class="img-thumbnail" alt="Photo" />
+  </div>
+
 
    <div style = "margin-left:5px;float:right;" class = "col-md-8">
   
