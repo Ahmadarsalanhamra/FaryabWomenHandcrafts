@@ -81,10 +81,10 @@
 
 <div class="container" >
  
-    <h4 style  = "text-align:center;margin:20px">New handcrafts in 2019</h4>
-  
-   <img style  =  "" src="new.jpg" class="img-thumbnail" alt="Photo" />
-
+ <h4 style  = "text-align:center;margin:20px">New handcrafts in 2019</h4>
+  <div style = "float:right">
+    <img style  =  "" src="new.jpg" class="img-thumbnail" alt="Photo" />
+  </div>
 <div style = "float:right"class="col-sm-8">
   
   <p style="text-align: justify;">
