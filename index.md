@@ -47,28 +47,28 @@
 
 <body dir = "text-align:right;" style="padding-top: 30px;">
 
-<div style  = ""class="container">
-<nav style  = ""class="navbar navbar-toggleable-md navbar-expand-lg navbar-light bg-ight">
+<div class="container">
+<nav class="navbar navbar-toggleable-md navbar-expand-lg navbar-light bg-light">
   <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <a class="navbar-brand" href="{{site.baseurl}}/">Faryab Women Handcrafts</a>
+  <a class="navbar-brand" href="/">Firoz Uzbek Karimi</a>
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
 <!--       <li class="nav-item active">
         <a class="nav-link" href="/">Home</a>
       </li> -->
       <li class="nav-item">
-        <a class="nav-link" href="{{site.baseurl}}/publications/">Publications</a>
+        <a class="nav-link" href="/publications/">Publications</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="{{site.baseurl}}/teaching/">News</a>
+        <a class="nav-link" href="/teaching/">Teaching</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="{{site.baseurl}}/service/">Service</a>
+        <a class="nav-link" href="/service/">Service</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="{{site.baseurl}}/jobs/">Products</a>
+        <a class="nav-link" href="/jobs/">Jobs</a>
       </li>
     </ul>
   </div>
@@ -83,23 +83,8 @@
 
 
 
-<div class="container" >
 
 
-
-
-
-
-
-
-
-
-
-
-              <div style = "float:right;margin-top:50px;">
-<!------- news ------->
-
-</div> <!--- end of the col-sm-8 --->
 
 
 
@@ -128,15 +113,9 @@
 
 </div>
 
-</div>
 
 
 
-
-              <div style = "float:right;margin-top:50px;">
-<!------- news ------->
-
-</div> <!--- end of the col-sm-8 --->
 
 
 
