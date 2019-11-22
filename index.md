@@ -48,7 +48,7 @@
 <body dir = "text-align:right;" style="padding-top: 30px;">
 
 <div style  = ""class="container">
-<nav style  = ""class="navbar navbar-toggleable-md navbar-expand-lg navbar-light bg-l``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````ight">
+<nav style  = ""class="navbar navbar-toggleable-md navbar-expand-lg navbar-light bg-ight">
   <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
