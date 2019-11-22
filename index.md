@@ -8,7 +8,7 @@
     
   <meta charset="UTF-8">
 
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-         Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
 
    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
@@ -31,14 +31,14 @@
    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
       
-   <![endif]-->
+    <![endif]-->
  <style>
       body {
         padding-top: 20px;
       }
       @media (min-width: 992px) {
-        body {
-          padding-top: 56px;
+      body {
+        padding-top: 56px;
         }
       }
 </style>
@@ -82,16 +82,16 @@
 <div class="container" >
  
  <h4 style  = "text-align:center;margin:20px">New handcrafts in 2019</h4>
-  <div style = "float:left">
+ <div style = "float:left">
     <img style  =  "" src="new.jpg" class="img-thumbnail" alt="Photo" />
-  </div>
+ </div>
   
-<div style = "margin:3px;float:left"class="col-sm-8">
+ <div style = "margin:3px;float:left"class="col-sm-8">
   
    <p style="text-align: justify;">
         Before the chancellor, I have worked as vice-chancellor of student affairs in <a href="faryab.edu.af">Faryab University</a>,             behind, I have spent several months as a headman of the university.  Prior to that, I have worked as head of English department          of the literature faculty in the university. I am a lecturer in literature faculty since I have graduated in 2004. I have               enrolled to the "Teaching English to Speakers of Other Languages (TESOL)" program and achieved my master’s degree in English              from the <a href="https://sreu.edu.af/">Kabul Education University</a>, 2013. I have graduated from literature faculty of the           Faryab university in 2004. 
-    </p>
-</div>
+    </p> 
+ </div>
       
 </div>
 
