@@ -124,12 +124,11 @@
 <br /><br />
 
 
-<!-- <div class="col-sm-3"> -->
+ <div class="col-sm-3">
 
+   </span> 
 
-               </span> 
-
-              </div>
+  </div>
 </div>
 
 
