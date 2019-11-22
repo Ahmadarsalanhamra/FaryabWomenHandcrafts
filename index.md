@@ -84,7 +84,7 @@
    
    <img style  =  "" src="new.jpg" class="img-thumbnail" alt="Photo" />
 
-   <div style = "margin-left:5px;float:right;">
+   <div style = "margin-left:5px;float:right;" class = "col-md-8">
   
    <p style="text-align: justify;">
         Before the chancellor, I have worked as vice-chancellor of student affairs in <a href="faryab.edu.af">Faryab University</a>,             behind, I have spent several months as a headman of the university.  Prior to that, I have worked as head of English department          of the literature faculty in the university. I am a lecturer in literature faculty since I have graduated in 2004. I have               enrolled to the "Teaching English to Speakers of Other Languages (TESOL)" program and achieved my master’s degree in English              from the <a href="https://sreu.edu.af/">Kabul Education University</a>, 2013. I have graduated from literature faculty of the           Faryab university in 2004. 
