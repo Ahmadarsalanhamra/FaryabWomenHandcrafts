@@ -160,58 +160,7 @@
 </div>
 
 
-<div style  = "float:left" class="col-md-4">
-      
-<br />
 
-
-<br /><br />
-
-
-<div style  = "float:left" class="col-md-4">
-      
-<br />
-
-
-<br /><br />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- <div class="col-sm-3"> -->
-
-
-               </span> 
-
-              </div>
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-    
 
 
 
