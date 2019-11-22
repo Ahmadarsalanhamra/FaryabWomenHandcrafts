@@ -32,19 +32,17 @@
    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
       
     <![endif]-->
+
+
+ <meta name="keywords" content="about,Firoz,Uzbek,Karimi,Faryab,university,Maimana,Faryab University, professor"/>
  <style>
       body {
         padding-top: 20px;
       }
       @media (min-width: 992px) {
-      body {
-        padding-top: 56px;
-        }
+   
       }
-</style>
-
- <meta name="keywords" content="about,Firoz,Uzbek,Karimi,Faryab,university,Maimana,Faryab University, professor"/>
-
+  </style>
 </head>
 
 <body dir = "text-align:right;" style="padding-top: 30px;">
@@ -82,10 +80,10 @@
 <div class="container" >
  
  <h4 style  = "text-align:center;margin:20px">New handcrafts in 2019</h4>
- <div style = "float:left">
-    <img style  =  "" src="new.jpg" class="img-thumbnail" alt="Photo" />
- </div>
-  
+
+   
+   <img style  =  "" src="new.jpg" class="img-thumbnail" alt="Photo" />
+
    <div style = "margin-left:5px;float:left"class="col-sm-8">
   
    <p style="text-align: justify;">
