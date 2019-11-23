@@ -32,6 +32,7 @@
    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
       
     <![endif]-->
+    
 
 
  <meta name="keywords" content="about,Firoz,Uzbek,Karimi,Faryab,university,Maimana,Faryab University, professor"/>
