@@ -155,6 +155,29 @@
 
 
 
+   <div class="container" >
+  <h4 style  = "font-size:20px;text-align:center;"><strong>قرص دوزی</strong></h4>
+
+   <div style = "float:left;">   
+   <img hieght = "100px" width = "150px" src="IMG_20170928_160115.jpg" class="img-thumbnail" alt="Photo" />
+  </div>
+
+
+   <div style = "float:left;" class = "col-md-7">
+  
+   <p style="text-align: justify;">
+      این دوخت در شمال کشور ما رواج است
+این دوخت بالای لباس, سرتختی, پوش بالشت و امثال آن دوخته میشود مواد استفاده شده گلاباتون,سوزن, کارگاه و طرح یا نقشه میباشد
+ 
+    </p> 
+     </div>
+     
+      
+</div>
+
+
+
+
 <p class="text-center text-muted" style="clear:both;"><small>&copy; Faryab Women Handcrafts &nbsp; | &nbsp; Last Update: {{ site.time | date_to_string }} &nbsp; | &nbsp; Web site code on <a href="https://github.com/karimi">Github</a> </small></p>
 
 
