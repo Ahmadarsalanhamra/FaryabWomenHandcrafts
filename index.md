@@ -93,8 +93,10 @@
     </p> 
      </div>
      </div>
-     <div class="container" >
- <h4 style  = "text-align:center;margin:20px">New handcrafts in 2019</h4>
+     
+     
+   <div class="container" >
+       <h4 style  = "text-align:center;">New handcrafts in 2019</h4>
 
    <div style = "float:left;">   
    <img style  =  "" src="new.jpg" class="img-thumbnail" alt="Photo" />
