@@ -59,7 +59,7 @@
         <a class="nav-link" href="#">Home</a>
       </li> 
        <li class="nav-item">
-        <a class="nav-link" href="{{site.baseurl}}/publications/">Publications</a>
+        <a class="nav-link" href="index">Publications</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="{{site.baseurl}}/teaching/">News</a>
@@ -68,7 +68,7 @@
         <a class="nav-link" href="{{site.baseurl}}/service/">Service</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="{{site.baseurl}}/jobs/">Products</a>
+        <a class="nav-link" href="{{site.baseurl}}/jobs/">Contact</a>
       </li>
     </ul>
   </div>
