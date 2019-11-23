@@ -135,6 +135,23 @@
       
 </div>
 
+   <div class="container" >
+  <h4 style  = "font-size:20px;text-align:center;"><strong>ادرم دوزی</strong></h4>
+
+   <div style = "float:left;">   
+   <img hieght = "100px" width = "150px" src="۲۰۱۸۰۳۰۱_۰۹۴۲۰۶.jpg" class="img-thumbnail" alt="Photo" />
+  </div>
+
+
+   <div style = "float:left;" class = "col-md-7">
+  
+   <p style="text-align: justify;">
+      این دوخت مشهور تاجیکستان است مثل چکن که به عنوان لباس ملی به جهان معرفی میکند. 
+    </p> 
+     </div>
+     
+      
+</div>
 
 
 
