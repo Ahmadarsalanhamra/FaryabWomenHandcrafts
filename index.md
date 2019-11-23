@@ -205,6 +205,31 @@
 </div>
 
 
+   <div class="container" >
+  <h4 style  = "font-size:20px;text-align:center;"><strong>خامک دوزی</strong></h4>
+
+   <div style = "float:left;">   
+   <img hieght = "100px" width = "150px" src="۲۰۱۸۰۳۰۱_۰۹۴۲۰۶.jpg" class="img-thumbnail" alt="Photo" />
+  </div>
+
+
+   <div style = "float:left;" class = "col-md-7">
+  
+   <p style="text-align:righty;">این هنر زیبا دوخت مشهور افغنستان بوده و تاریخچه ای قدیمی دارد
+مواد بکار گیری آن 
+سوزن
+تار
+پارچه 
+طرح میباشد
+
+</p> 
+   </div>
+     
+      
+</div>
+
+
+
 <p class="text-center text-muted" style="clear:both;"><small>&copy; Faryab Women Handcrafts &nbsp; | &nbsp; Last Update: {{ site.time | date_to_string }} &nbsp; | &nbsp; Web site code on <a href="https://github.com/karimi">Github</a> </small></p>
 
 
