@@ -117,6 +117,23 @@
 
 
 
+   <div class="container" >
+  <h4 style  = "font-size:20px;text-align:center;"><strong>آینه دوزی</strong></h4>
+
+   <div style = "float:left;">   
+   <img hieght = "100px" width = "150px" src="FB_IMG_1544181981984.jpg" class="img-thumbnail" alt="Photo" />
+  </div>
+
+
+   <div style = "float:left;" class = "col-md-7">
+  
+   <p style="text-align: justify;">
+        این هنر را مردم بلوچ بیشتر استفاده میکند برای لباس های زبانه کلای مردانه دوخته میشود مواد و ابزار قابل ضرورت این هنر زیبا مثل آینه های کوچک, پارچه و سوزن میباشد 
+    </p> 
+     </div>
+     
+      
+</div>
 
 
 
