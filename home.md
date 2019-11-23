@@ -59,7 +59,7 @@
         <a class="nav-link" href="#">Home</a>
       </li> 
        <li class="nav-item">
-        <a class="nav-link" href="index">Publications</a>
+        <a class="nav-link" href="\index">Publications</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="{{site.baseurl}}/teaching/">News</a>
