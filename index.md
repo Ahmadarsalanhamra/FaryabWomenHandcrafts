@@ -100,7 +100,7 @@
   <h4 style  = "text-align:center;"><strong>گراف دوزی</strong></h4>
 
    <div style = "float:left;">   
-   <img style  =  "" src="new.jpg" class="img-thumbnail" alt="Photo" />
+   <img style  =  "" src="FB_IMG_1544181981984.jpg" class="img-thumbnail" alt="Photo" />
   </div>
 
 
