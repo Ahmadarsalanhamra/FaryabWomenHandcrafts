@@ -62,13 +62,13 @@
         <a class="nav-link" href="/publications/">Publications</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/teaching/">Teaching</a>
+        <a class="nav-link" href="index">News</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="/service/">Service</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/jobs/">Jobs</a>
+        <a class="nav-link" href="/Contact/">Contact</a>
       </li>
     </ul>
   </div>
