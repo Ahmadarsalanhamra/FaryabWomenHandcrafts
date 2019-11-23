@@ -209,7 +209,7 @@
   <h4 style  = "font-size:20px;text-align:center;"><strong>خامک دوزی</strong></h4>
 
    <div style = "float:left;">   
-   <img hieght = "100px" width = "150px" src="۲۰۱۸۰۳۰۱_۰۹۴۲۰۶.jpg" class="img-thumbnail" alt="Photo" />
+   <img hieght = "100px" width = "150px" src="۲۰۱۵۰۱۱۵_۰۴۵۴۰۵.jpg" class="img-thumbnail" alt="Photo" />
   </div>
 
 
