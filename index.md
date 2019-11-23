@@ -83,7 +83,7 @@
  <h4 style  = "text-align:center;margin:20px"><strong>زر دوزی</strong></h4>
 
    <div style = "float:left;">   
-   <img hieght = "200px" width = "150px" src="FB_IMG_1534953578988.jpg" class="img-thumbnail" alt="Photo" />
+   <img hieght = "200px" width = "300px" src="FB_IMG_1534953578988.jpg" class="img-thumbnail" alt="Photo" />
   </div>
 
 
