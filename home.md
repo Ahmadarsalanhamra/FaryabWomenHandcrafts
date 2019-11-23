@@ -47,8 +47,8 @@
 
 <body dir = "text-align:right;" style="padding-top: 30px;">
 
-<div style  = ""class="container">
-<nav style  = ""class="navbar navbar-toggleable-md navbar-expand-lg navbar-light bg-light">
+<div style  = "" class="container">
+<nav style  = "" class="navbar navbar-toggleable-md navbar-expand-lg navbar-light bg-light">
   <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -76,18 +76,7 @@
 </div>
 
 <div class="container" >
-
-              <div style = "margin-top:50px;">
-<!------- news ------->
-
-</div> <!--- end of the col-sm-8 --->
-
-
-
-              <h4 style  = "text-align:center;margin:20px">سنائی دستی زنان فاریاب</h4>
-                              
-<!------- news ------->
-
+ <h4 style  = "text-align:center;margin:20px">سنائی دستی زنان فاریاب</h4>
                
 <div class="col-sm-12 col-lg-12">
 
@@ -96,16 +85,12 @@
 دستاورد های ساخته شده تپسط زنان افغان حتی در بیرون از کشور نیز عرضه شده در بسیاری کشور ها جایگاه خاص خود را دارد در ولایت فاریاب نیز زنان زیادی مشغول به این کار هستن و از این طریق زندگی خویش را به پیش میبیرند.
 
 </p>
-
 </div>
+
 <div style  = "text-align:center;">
       <img src="home.jpg" class="img-thumbnail" alt="photo" />
 
 </div>
-
-
-
-
 </div>
 
 
