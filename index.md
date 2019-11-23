@@ -159,7 +159,7 @@
   <h4 style  = "font-size:20px;text-align:center;"><strong>قرص دوزی</strong></h4>
 
    <div style = "float:left;">   
-   <img hieght = "100px" width = "150px" src="IMG_20170928_160115.jpg" class="img-thumbnail" alt="Photo" />
+   <img hieght = "100px" width = "150px" src="FB_IMG_1572659146038.jpg" class="img-thumbnail" alt="Photo" />
   </div>
 
 
@@ -176,6 +176,34 @@
 </div>
 
 
+   <div class="container" >
+  <h4 style  = "font-size:20px;text-align:center;"><strong>سجاف دوزی</strong></h4>
+
+   <div style = "float:left;">   
+   <img hieght = "100px" width = "150px" src="FB_IMG_1572659146038.jpg" class="img-thumbnail" alt="Photo" />
+  </div>
+
+
+   <div style = "float:left;" class = "col-md-7">
+  
+   <p style="text-align: justify;">
+یکی از هنر های دستی کشور فرانسه است
+این نوع هنر نسبت به گلدوزی ارزان و آسان تر است چون با چند گره ساده سطح زیبایی از سجاف دوزی تهیه میشود ابزار و مواد ضرورت در این هنر 
+<ul>
+  <li>سوزن</li>
+  <li>قالب گلدوزی</li>
+  <li>پارچه</li>
+  <li>طرح</li>
+  <li>مارکر</li>
+  <li>سوزن انگشتی</li>
+  </ul>
+  میباشد
+
+    </p> 
+     </div>
+     
+      
+</div>
 
 
 <p class="text-center text-muted" style="clear:both;"><small>&copy; Faryab Women Handcrafts &nbsp; | &nbsp; Last Update: {{ site.time | date_to_string }} &nbsp; | &nbsp; Web site code on <a href="https://github.com/karimi">Github</a> </small></p>
