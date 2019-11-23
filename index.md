@@ -83,7 +83,7 @@
  <h4 style  = "text-align:center;margin:20px"><strong>زر دوزی</strong></h4>
 
    <div style = "float:left;">   
-   <img hiegh = "120px" style  =  "width:300px;" src="FB_IMG_1534953578988.jpg" class="img-thumbnail" alt="Photo" />
+   <img hiegh = "100px" style  =  "width:300px;" src="FB_IMG_1534953578988.jpg" class="img-thumbnail" alt="Photo" />
   </div>
 
 
@@ -100,7 +100,7 @@
   <h4 style  = "text-align:center;"><strong>گراف دوزی</strong></h4>
 
    <div style = "float:left;">   
-   <img hiegh = "120" style  =  "width:300px;" src="FB_IMG_1544181981984.jpg" class="img-thumbnail" alt="Photo" />
+   <img hiegh = "100" style  =  "width:300px;" src="FB_IMG_1544181981984.jpg" class="img-thumbnail" alt="Photo" />
   </div>
 
 
